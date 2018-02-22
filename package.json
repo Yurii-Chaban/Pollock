@@ -22,6 +22,8 @@
     "@angular/platform-browser-dynamic": "^5.2.0",
     "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
+    "json-pollock": "^1.0.25",
+    "jsoneditor": "^5.13.3",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
   },
